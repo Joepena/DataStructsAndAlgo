@@ -1,4 +1,4 @@
-# DataStructures and Algorithms <img src="/misc/terminal.png" alt="alt text" width="50" height="50">
+# DataStructures and Algorithms <img src="/misc/terminal.png" alt="alt text" width="70" height="50">
 
 
 
